@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thegreatao3drought.com/sitemap.xml
+Sitemap: https://ao3drought.xyz/sitemap.xml
